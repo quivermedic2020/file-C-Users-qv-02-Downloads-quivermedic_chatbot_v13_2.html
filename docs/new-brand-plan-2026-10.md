@@ -1,6 +1,6 @@
 # 퀴버메딕 신규 브랜드 기획안 (초안) — KYYB·FATLAB 벤치마킹
 
-- 작성: 2026-10-04 / 상태: **대표 검토용 초안** (확정 정책 아님)
+- 작성: 2026-10-04 / 상태: **대표 검토용 초안** (확정 정책 아님) / 2026-10-04 대표 결정 3건 반영
 - 목적: 홈케어 브랜드 KYYB(킵)·FATLAB(팻랩) 조사 → 퀴버메딕 신규 소비자 브랜드 기획
 
 ---
@@ -104,25 +104,46 @@
 
 ---
 
-## 4. 대표 결정 사항 (최대 3개)
+## 4. 대표 결정 사항 — ✅ 2026-10-04 결정 (권장안 선택)
 
-1. **포지셔닝**: "시술 사이(병원 연계)" (권장) vs "시술 대체(D2C 단독)"
-2. **MVP 히어로 1개**: 페이스 PN 홈 앰플 28일 키트 (권장, 기존 부스터 라인과 연결이 가장 직접적) vs 바디 패치(FATLAB과 정면 경쟁, 규제 리스크 높음)
-3. **착수 범위**: 상표 검색·OEM 견적·파트너 수요조사까지만 진행 (권장, 투자금 확정 전 단계) vs 바로 시제품 발주
+1. **포지셔닝**: ✅ "시술 사이(병원 연계)". 기각안: "시술 대체(D2C 단독)"
+2. **MVP 히어로 1개**: ✅ 페이스 PN 홈 앰플 28일 키트. 기각안: 바디 패치
+3. **착수 범위**: ✅ 상표 검색·OEM 견적·파트너 수요조사까지만 진행. 시제품 발주는 Go/No-Go 이후
 
-## 5. 다음 행동 (결정 후 Flow에서 배정. 아래는 초안)
+### 4-1. 브랜드명 상표 사전검색 결과 (2026-10-04)
+
+**조사 범위와 한계**
+- KIPRIS, USPTO, WIPO Global Brand DB, TMview, EUIPO, Justia는 이 환경에서 **모두 접속 차단**. 공식 DB 조회는 0건.
+- 아래 결과는 **웹 검색으로 같은 이름의 화장품 브랜드가 실제로 쓰이는지만 본 사전 스크리닝**이다. "등록 가능"을 뜻하지 않는다.
+- 출원 전에 변리사를 통한 정식 검색이 필요하다(국내 + 마드리드 지정국).
+
+| 후보 | 웹상 동일 화장품 브랜드 | 유사 선행 사례(사실) | 위험도(해석) | 비고 |
+|---|---|---|---|---|
+| **AFTERQ** | 발견 안 됨 | 영국 스킨케어 "Q+A"(Class 3 판매 중). 문자 구성이 달라 외관 유사성은 낮다고 봄 | **낮음~중간** | 조어라 식별력이 상대적으로 유리. 기존 "Q+NUMB"과 "Q" 패밀리 네이밍으로 이어짐 |
+| **Q-DAYS** | 발견 안 됨 | 미국 "Q COSMETICS"(Q Southeast LLC, Class 3), "QODE"(QODE GROUP, Class 3 2024 출원), 영국 "Q+A" | **중간** | "DAYS"는 식별력이 약해 "Q" 부분에 판단이 쏠리고, Q로 시작하는 선행 화장품 상표와 부딪힐 가능성 |
+| **INTERVAL** | 발견 안 됨 | 웹 검색에서 화장품 브랜드는 미발견 | **중간~높음** | 일반 영단어라 여러 분류에 선등록이 많을 가능성. 도메인·SNS 계정 확보도 어려울 가능성 |
+
+**제안**: 정식 검색 1순위는 **AFTERQ**, 예비는 **Q-DAYS**. INTERVAL은 슬로건("The days between treatments")으로만 쓰는 방안을 제안.
+
+**정식 검색 시 지정 범위(제안)**
+- 상품류: 제3류(화장품) 필수. 제5류(의약·의료용 제제)와 제10류(의료기기, 진정 마스크가 의료기기 판정을 받을 경우)는 확인필요
+- 국가: 한국 + 기존 총판 주력국. 국가 목록은 ERP 매출 기준으로 선정 필요
+- 함께 확인할 것: 한글 표기(애프터큐), 도메인(afterq.com / .kr / .co.kr), 인스타그램 핸들
+
+## 5. 다음 행동 (Flow 배정은 대표 요청 시. 아래는 초안)
 
 | 행동 | 책임 역할 | 기한(제안) |
 |---|---|---|
-| 브랜드명 3안 상표 검색 (국내 + 주요 수출국) | 마케팅 / 법무·RA | 결정 후 2주 |
-| 홈 앰플 OEM 견적 2곳 이상 (MOQ·단가·리드타임) | 생산·구매 | 결정 후 3주 |
-| 국내 병원 5곳·해외 총판 5곳 대상 홈키트 번들 수요조사 | 국내영업 / 해외영업 | 결정 후 3주 |
-| 금지 표현·허용 표현 가이드 초안 | RA | 결정 후 2주 |
+| AFTERQ(예비 Q-DAYS) 변리사 정식 검색 의뢰: 3류, 국내 + 주력 수출국 | 마케팅 / 법무·RA | 2026-10-18 |
+| 홈 앰플 OEM 견적 2곳 이상 (MOQ·단가·리드타임) | 생산·구매 | 2026-10-25 |
+| 국내 병원 5곳·해외 총판 5곳 대상 홈키트 번들 수요조사 | 국내영업 / 해외영업 | 2026-10-25 |
+| 금지 표현·허용 표현 가이드 초안 | RA | 2026-10-18 |
 | 결과를 모아 Go/No-Go 1페이지 작성 | 대표 (Claude 초안) | 위 항목 완료 후 1주 |
 
 ---
 
 ## 출처 (2026-10-04 검색)
+- 상표 사전검색: [Q+A Skincare](https://us.qandaskin.com/), [Q Southeast LLC(Q COSMETICS)](https://trademark.justia.com/owners/q-southeast-llc-1455449), [QODE GROUP](https://trademarks.justia.com/owners/qode-group-pte-ltd-5862755), [Holland & Barrett Q+A](https://www.hollandandbarrett.com/shop/brands/q-a/)
 - KYYB: [Instagram](https://www.instagram.com/kyyb.official/) (직접 열람 불가), [공식몰](https://kyyb.co.kr/), [NaDC 크림](https://kyyb.co.kr/product/%EC%97%94%EC%97%90%EC%9D%B4%EB%94%94%EC%94%A8-%ED%81%AC%EB%A6%BC120%EB%8F%84%ED%81%AC%EB%A6%BC/190/), [세계일보 출시 기사](https://www.segye.com/newsView/20231024509430), [더브이씨 기업정보](https://thevc.kr/bfactory-1), [혁신의숲](https://www.innoforest.co.kr/company/CP00011998/%EB%B9%84%ED%8C%A9%ED%86%A0%EB%A6%AC), [행복이가득한집 인터뷰](https://luxury.designhouse.co.kr/magazineView/69059d5f010fd74a00a3b94a), [신세계V](https://www.shinsegaev.com/dispctg/initBrandCtg.siv?disp_ctg_no=2208061924)
 - FATLAB: [공식몰](https://fatlab.kr/) (about 페이지 직접 열람 불가), [StyleKorean](https://www.stylekorean.com/brand/fat-lab/813), [Shop LC](https://www.shoplc.com/products/fat-lab-bromelain-microcirculation-patch-8-each-made-in-korea-buy-one-get-one-free), [BloopifyHub](https://bloopifyhub.com/products/fatlab-patches-8x), [Dear Glow](https://dearglow.shop/blogs/glow-blog/fat-lab-korean-circulation-patch-global-attention)
 - 규제: [이투데이 377건 적발](https://www.etoday.co.kr/news/view/2025522), [코스인코리아 124건](https://www.cosinkorea.com/news/article.html?no=53818), [메디팜헬스 셀룰라이트 14건](https://medipharmhealth.co.kr/news/article.html?no=22428), [아시아투데이](https://www.asiatoday.co.kr/kn/view.php?key=20241224010013386)
