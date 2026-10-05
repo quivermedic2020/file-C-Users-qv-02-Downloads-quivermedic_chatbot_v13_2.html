@@ -125,6 +125,29 @@
 
 **제안**: 정식 검색 1순위는 **AFTERQ**, 예비는 **Q-DAYS**. INTERVAL은 슬로건("The days between treatments")으로만 쓰는 방안을 제안.
 
+**2차 조회 (2026-10-05, 클라우드 세션)**
+
+공식 상표 DB는 다시 시도했지만 모두 접속이 차단됐다: KIPRIS(www/plus), USPTO(tmsearch/tsdr/api), WIPO Brand DB, TMview, 마크인포, 마크클라우드. 상표 출원·등록 여부는 여전히 **미조회**다.
+
+도메인 DNS 조회 결과(사실: 시스템 DNS로 A 레코드를 조회. WHOIS/RDAP는 차단)
+
+| 도메인 | DNS 응답 | 해석 |
+|---|---|---|
+| afterq.com | 응답 있음 (15.197.148.33 / 3.33.130.190) | **이미 누군가 등록함**. 등록업체의 주차·포워딩용으로 흔히 쓰이는 IP 대역이라 실사용 여부는 미확인. 매입 협상이나 다른 도메인이 필요할 가능성 |
+| afterq.kr / afterq.co.kr / afterq.net / afterq.shop / afterqskin.com | 응답 없음 | 미등록일 가능성. 단, A 레코드 없이 등록만 된 경우도 있어 WHOIS 확인 필요 |
+| qdays.com | 응답 있음 | 이미 등록됨 |
+| qdays.kr / qdays.co.kr / q-days.com | 응답 없음 | 미등록일 가능성 (WHOIS 확인 필요) |
+| interval.kr / intervalskin.com | 응답 있음 | 이미 등록됨 |
+
+**해석**: AFTERQ는 .com만 이미 등록되어 있고 국내 도메인은 확보 가능성이 있다. 상표 1순위는 유지한다. .com은 `afterq.co`, `afterqskin.com` 같은 대안이나 매입 문의가 필요하다.
+
+**남은 확인 (대표님 PC 브라우저에서 약 10분)**
+1. [KIPRIS](https://www.kipris.or.kr) → 상표 → 검색어 `AFTERQ`, `AFTER Q`, `애프터큐`, `에프터큐` → 상품분류 03, 05, 10 → 상태(출원/등록/거절/소멸)와 출원인 확인
+2. 같은 방법으로 `QDAYS`, `큐데이즈` 조회
+3. [WIPO Brand DB](https://branddb.wipo.int) → `AFTERQ` → Nice class 3 → 미국, EU, 영국, UAE, 터키 표시분 확인
+4. [후이즈 검색](https://www.whois.co.kr) 등에서 afterq.kr / afterq.co.kr 등록 가능 여부 확인
+5. 인스타그램 앱에서 @afterq, @afterq.official 핸들 사용 여부 확인
+
 **정식 검색 시 지정 범위(제안)**
 - 상품류: 제3류(화장품) 필수. 제5류(의약·의료용 제제)와 제10류(의료기기, 진정 마스크가 의료기기 판정을 받을 경우)는 확인필요
 - 국가: 한국 + 기존 총판 주력국. 국가 목록은 ERP 매출 기준으로 선정 필요
