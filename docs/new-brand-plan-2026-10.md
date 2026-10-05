@@ -140,9 +140,32 @@
 | 금지 표현·허용 표현 가이드 초안 | RA | 2026-10-18 |
 | 결과를 모아 Go/No-Go 1페이지 작성 | 대표 (Claude 초안) | 위 항목 완료 후 1주 |
 
+### 5-1. OEM 견적 채널 검토: 2026 뷰티썸 수원 (2026-10-05 조사)
+
+**사실** (언론 보도 기준. 공식 페이지 beautysumkorea.com은 이 환경에서 접속 차단, 미열람)
+- 일시·장소: 2026-11-05(목)~11-07(토), 수원컨벤션센터
+- 주최: 수원시 / 주관: 수원시·(재)수원컨벤션센터·㈜메쎄이상
+- 규모: 120개 기업·기관, 250여 부스. 스킨케어, 원료·소재, 용기·포장, 유통사 참가
+- 비즈니스 프로그램: **위탁생산(ODM) 브랜드 런칭 커넥터**, 해외 바이어 수출상담회(7개국 15개사), 화장품 소재 세미나, 대형 유통사 입점 프로그램, AI 뷰티테크관
+- 입장: 1만원. 홈페이지 사전등록 시 무료
+- **미확인**: ODM 커넥터의 신청 방법·마감·비용, 참가 제조사 명단, MOQ 조건
+
+**해석**
+- MVP(PN 홈 앰플 28일 키트) 제조사를 비교하기에 맞는 프로그램이다.
+- 박람회(11/5)가 기존 OEM 견적 기한(10/25)보다 늦다. 대체가 아니라 **추가 비교 견적 채널**로 쓰는 것이 맞다.
+- 참가사 명단을 보면 대형 ODM보다 중소 제조사 중심일 가능성이 있다(확인필요). 소량 MOQ 협상에는 유리할 수 있다.
+- 해외 바이어 상담회와 대형 유통사 입점 프로그램은 B2C 신규 브랜드에 부수 효과가 있다.
+
+**제안**
+1. 사전등록(무료)과 ODM 커넥터 사전 신청 가능 여부를 지금 확인한다. 담당: 마케팅, 기한 10/10
+2. 기존 계획대로 10/25까지 직접 견적 2곳을 받고, 박람회에서 2~3곳을 추가로 받아 11/14까지 비교표를 만든다.
+3. 상담용 1페이지 브리프를 미리 준비한다: PN 함량 범위, 28일 키트 구성(앰플 개수·용량), 목표 실판매가 5~7만원과 목표 원가율, 희망 MOQ, 인체적용시험 지원 여부, 해외 규제 대응(EU CPNP, 미국 MoCRA 등) 가능 여부, 리드타임
+4. 먼저 확인할 것: 퀴버메딕 OEM/ODM 서비스(상담봇 기준)로 화장품 제조도 가능한지. 사내 생산이 가능하면 외부 견적은 비교 기준용이 된다.
+
 ---
 
-## 출처 (2026-10-04 검색)
+## 출처 (2026-10-04~05 검색)
+- 뷰티썸 수원: [국민일보](https://www.kukinews.com/article/view/kuk202609210064), [코스인코리아](https://www.cosinkorea.com/news/article.html?no=58360), [아시아경제](https://view.asiae.co.kr/article/2026092109164138167), [뉴스핌](https://www.newspim.com/news/view/20260921000764), [수원시 관광](https://www.suwon.go.kr/sw-www/sw-visitsuwon/sw-visitsuwon-03/sw-visitsuwon-03-13.jsp)
 - 상표 사전검색: [Q+A Skincare](https://us.qandaskin.com/), [Q Southeast LLC(Q COSMETICS)](https://trademark.justia.com/owners/q-southeast-llc-1455449), [QODE GROUP](https://trademarks.justia.com/owners/qode-group-pte-ltd-5862755), [Holland & Barrett Q+A](https://www.hollandandbarrett.com/shop/brands/q-a/)
 - KYYB: [Instagram](https://www.instagram.com/kyyb.official/) (직접 열람 불가), [공식몰](https://kyyb.co.kr/), [NaDC 크림](https://kyyb.co.kr/product/%EC%97%94%EC%97%90%EC%9D%B4%EB%94%94%EC%94%A8-%ED%81%AC%EB%A6%BC120%EB%8F%84%ED%81%AC%EB%A6%BC/190/), [세계일보 출시 기사](https://www.segye.com/newsView/20231024509430), [더브이씨 기업정보](https://thevc.kr/bfactory-1), [혁신의숲](https://www.innoforest.co.kr/company/CP00011998/%EB%B9%84%ED%8C%A9%ED%86%A0%EB%A6%AC), [행복이가득한집 인터뷰](https://luxury.designhouse.co.kr/magazineView/69059d5f010fd74a00a3b94a), [신세계V](https://www.shinsegaev.com/dispctg/initBrandCtg.siv?disp_ctg_no=2208061924)
 - FATLAB: [공식몰](https://fatlab.kr/) (about 페이지 직접 열람 불가), [StyleKorean](https://www.stylekorean.com/brand/fat-lab/813), [Shop LC](https://www.shoplc.com/products/fat-lab-bromelain-microcirculation-patch-8-each-made-in-korea-buy-one-get-one-free), [BloopifyHub](https://bloopifyhub.com/products/fatlab-patches-8x), [Dear Glow](https://dearglow.shop/blogs/glow-blog/fat-lab-korean-circulation-patch-global-attention)
